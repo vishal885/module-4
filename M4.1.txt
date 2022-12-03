@@ -1,0 +1,4 @@
+#What is File function in python? What is keywords to create and write file
+=>A file object allows us to use, access and manipulate all the user accessible files.
+=>To write to an existing file, you must add a parameter to the open() function:
+=>"w" - Write - will overwrite any existing content

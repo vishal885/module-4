@@ -1,0 +1,1 @@
+Django is a Python-based web framework that allows you to quickly create efficient web applications
